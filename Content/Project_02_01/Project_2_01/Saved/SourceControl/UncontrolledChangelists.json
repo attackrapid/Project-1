@@ -5,6 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/vp137/Documents/GitHub/Project-1.2/Content/Project_02_01/Project_2_01/Content/Assets/Project02_Asset_Archway.uasset",
+				"C:/Users/vp137/Documents/GitHub/Project-1.2/Content/Project_02_01/Project_2_01/Content/Assets/Project02_Asset_Crystal_Container.uasset",
+				"C:/Users/vp137/Documents/GitHub/Project-1.2/Content/Project_02_01/Project_2_01/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/0O/J88CKO3X04MH94SXKUP67B.uasset",
+				"C:/Users/vp137/Documents/GitHub/Project-1.2/Content/Project_02_01/Project_2_01/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/O5/VO4SGG53ULOR9OD3D15335.uasset",
+				"C:/Users/vp137/Documents/GitHub/Project-1.2/Content/Project_02_01/Project_2_01/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/MJ/VOFZQYSWFX3AAT9IAK4Q5A.uasset",
+				"C:/Users/vp137/Documents/GitHub/Project-1.2/Content/Project_02_01/Project_2_01/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/I2/3XI693UCQ0G24G6X5SLIOM.uasset",
+				"C:/Users/vp137/Documents/GitHub/Project-1.2/Content/Project_02_01/Project_2_01/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/39/UHRM2MDO25JM29T5PLA8JP.uasset",
+				"C:/Users/vp137/Documents/GitHub/Project-1.2/Content/Project_02_01/Project_2_01/Content/Assets/Black_Marble.uasset",
+				"C:/Users/vp137/Documents/GitHub/Project-1.2/Content/Project_02_01/Project_2_01/Content/Assets/Copper.uasset",
+				"C:/Users/vp137/Documents/GitHub/Project-1.2/Content/Project_02_01/Project_2_01/Content/Assets/Proj2_group12_pasted__group11_pasted__pasted__group10_pasted__pasted__pasted__group8_pasted__pasted__pasted__pasted__pCube3.uasset",
+				"C:/Users/vp137/Documents/GitHub/Project-1.2/Content/Project_02_01/Project_2_01/Content/Assets/Proj2_pasted__pasted__pCube4.uasset",
+				"C:/Users/vp137/Documents/GitHub/Project-1.2/Content/Project_02_01/Project_2_01/Content/Assets/Proj2_pCylinder1.uasset",
+				"C:/Users/vp137/Documents/GitHub/Project-1.2/Content/Project_02_01/Project_2_01/Content/Assets/Silver_Metal.uasset",
+				"C:/Users/vp137/Documents/GitHub/Project-1.2/Content/Project_02_01/Project_2_01/Content/Assets/standardSurface1.uasset",
 				"C:/Users/vp137/Documents/Unreal Projects/Project_2_01/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
