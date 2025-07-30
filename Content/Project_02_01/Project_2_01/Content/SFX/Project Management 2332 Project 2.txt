@@ -1,0 +1,35 @@
+# 🎧 Sound Effects for Project 2
+
+This folder contains sound effects used in the game project 2 (Dallas College - Summer 2025).
+
+## 🔊 List of Sound Effects
+
+| File Name                         | Description                | Source       | License    |
+|-----------------------------------|----------------------------|--------------|------------|
+| Crumble-Rocks.mp3                 | Crumble Rocks sound        | Pixabay      | CC BY 4.0  |
+| Dripping-Water-Stereo.mp3         | Dripping Water Stereo Sound| Pixabay      | Free Use   |
+| Dungeon-Ambience.mp3              | Dungeon Ambience           | Pixabay      | Attribution|
+| Faint.mp3                         | Faint                      | Pixabay      | CC0        |
+| Magical-Sparkle-Whoosh.mp3        | Magical Sparkle Whoosh     | Pixabay      | CC0        |
+| Rocks-Gravel-Slide.mp3.           | Rocks Gravel Slide         | Pixabay      | CC BY 4.0  |
+| Voice-BehindYou-whisper.mp3       | whisper Behind You         | Pixabay      | CC0        |
+| Ambience-Library.mp3              | Ambience Library           | Pixabay      | CC0        |
+| Papers-Falling.mp3                | Papers Falling             | Pixabay      | CC BY 4.0  |
+| Wind-Chimes.mp3                   | Wind Chimes                | Pixabay      | CC0        |
+| Distant-Peacock.mp3               | Distant Peacock            | Pixabay      | CC0        |
+| Dry-Dirt-Crumble-Impact.mp3       | Dry Dirt Crumble Impact    | Pixabay      | CC BY 4.0  |
+| Nature-Ambience.mp3               | Nature Ambience            | Pixabay      | CC BY 4.0  |
+| Wind-Rustling-Grass.mp3           | Wind Rustling Grass        | Pixabay      | Free Use   |
+
+> ℹ️ **CC BY 4.0** means you must give credit to the original creator. Include attribution in project credits.
+
+## 🗃️ Folder Structure
+
+
+## 🙋 Maintainer
+
+**Nicolás Larrarte Iriarte**  
+Role: Sound Sourcing and GitHub Upload  
+
+
+
