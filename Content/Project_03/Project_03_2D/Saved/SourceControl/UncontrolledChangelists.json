@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Bedlam/Project-1/Content/Project_03/Project_03_2D/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Bedlam/Project-1/Content/Project_03/Project_03_2D/Content/ThirdPerson/Blueprints/BP_Flyingenemy.uasset",
+				"C:/Bedlam/Project-1/Content/Project_03/Project_03_2D/Content/Enemies/BP_EnemyAI.uasset",
+				"C:/Bedlam/Project-1/Content/Project_03/Project_03_2D/Content/Enemies/BP_EnemyAI2.uasset",
+				"C:/Bedlam/Project-1/Content/Project_03/Project_03_2D/Content/Enemies/BP_ENEMYROBOT.uasset",
+				"C:/Bedlam/Project-1/Content/Project_03/Project_03_2D/Content/Enemies/EnemyRobot01.uasset",
+				"C:/Bedlam/Project-1/Content/Project_03/Project_03_2D/Content/Enemies/EnemyRobot02.uasset",
+				"C:/Bedlam/Project-1/Content/Project_03/Project_03_2D/Content/Enemies/EnemyRobot02_Skeleton.uasset",
+				"C:/Bedlam/Project-1/Content/Project_03/Project_03_2D/Content/ThirdPerson/Blueprints/BP_Enemy.uasset",
+				"C:/Bedlam/Project-1/Content/Project_03/Project_03_2D/Content/ThirdPerson/Blueprints/Enemy_component.uasset",
+				"C:/Bedlam/Project-1/Content/Project_03/Project_03_2D/Content/ThirdPerson/Blueprints/FlyingAI.uasset",
+				"C:/Bedlam/Project-1/Content/Project_03/Project_03_2D/Content/ThirdPerson/Blueprints/BTTask_BlueprintBase_New.uasset",
+				"C:/Bedlam/Project-1/Content/Project_03/Project_03_2D/Content/ThirdPerson/Blueprints/BTT_Flychaseplayer.uasset",
+				"C:/Bedlam/Project-1/Content/Project_03/Project_03_2D/Content/Levels/TestLevel1.umap",
+				"C:/Bedlam/Project-1/Content/Project_03/Project_03_2D/Content/__ExternalActors__/Levels/TestLevel1/7/1B/CSMZM30UBMGM5BMTEWSS2R.uasset",
+				"C:/Bedlam/Project-1/Content/Project_03/Project_03_2D/Content/ThirdPerson/Blueprints/AIBB.uasset"
+			]
+		}
+	]
+}
